@@ -73,3 +73,9 @@ def fun(sort_key: str = Query(..., description="view by id, name, weight"), sort
         return list(sorted(data, key = lambda x: x[sort_key]))
     elif sort_by == "desc":
         return list(sorted(data, key = lambda x: x[sort_key], reverse=True))
+
+
+
+##################### Note ##############################
+# both path and query parameters can be used in same route
+#########################################################
