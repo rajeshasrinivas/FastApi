@@ -1,0 +1,5 @@
+{  "P001": {"id" : 1, "name" : "Ramesh", "weight": 70},
+   "P002": {"id" : 2, "name" : "Anand", "weight": 85},
+   "P003": {"id" : 3, "name" : "Dravid", "weight": 56},
+   "P004": {"id" : 4, "name" : "Ullas", "weight": 92}
+}

@@ -26,7 +26,7 @@ On macOS/Linux (Bash/Zsh)
 
 Install FastApi
 ~~~
-    pip install fastapi unicorn pydantic
+    pip install fastapi uvicorn pydantic
 ~~~
 
 Run FastAPI
