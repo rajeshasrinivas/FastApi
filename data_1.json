@@ -1,0 +1,44 @@
+{
+  "P002": {
+    "name": "Anand",
+    "weight": 78.0,
+    "height": 1.72,
+    "bmi": 26.37,
+    "verdict": "obese"
+  },
+  "P003": {
+    "name": "Dravid",
+    "weight": 65.0,
+    "height": 1.56,
+    "bmi": 26.71,
+    "verdict": "obese"
+  },
+  "P004": {
+    "name": "Ullas",
+    "weight": 96.0,
+    "height": 1.8,
+    "bmi": 29.63,
+    "verdict": "obese"
+  },
+  "P005": {
+    "name": "Riya",
+    "weight": 50.6,
+    "height": 1.67,
+    "bmi": 18.14,
+    "verdict": "Normal"
+  },
+  "P006": {
+    "name": "Danush",
+    "weight": 70.76,
+    "height": 1.67,
+    "bmi": 25.37,
+    "verdict": "obese"
+  },
+  "P007": {
+    "name": "Naveen",
+    "weight": 36.0,
+    "height": 1.67,
+    "bmi": 12.91,
+    "verdict": "Normal"
+  }
+}
